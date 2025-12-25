@@ -1,1 +1,15 @@
+# Sample Data (Before update):
 
+ID      Name    Age     Grade   Contact
+---------------------------------------
+101     Aaryan  21      56      aaryan@gmail.com
+102     Janhavi 22      64      janhavi@gmail.com
+103     John    20      78      john@gmail.com
+
+# After update:
+
+ID      Name    Age     Grade   Contact
+---------------------------------------
+101     Aaryan  21      56      aaryan@gmail.com
+102     Janhavi 22      64      janhavi@gmail.com
+103     Steve   28      40      steve@gmail.com
